@@ -27,3 +27,11 @@ html {
   font-size: 10rem;
   flex-flow: column;
 }
+.navbar{
+  border: 1px solid red;
+  position: fixed;
+  top: 0;
+  background-color: yellow;
+  opacity: 0.5;
+  width: 100vw;
+}
